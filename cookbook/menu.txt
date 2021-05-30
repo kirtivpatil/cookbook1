@@ -1,2 +1,6 @@
 Apple Pie
+<<<<<<< HEAD
 update from MAster1
+=======
+Feature1
+>>>>>>> feature
